@@ -1,7 +1,7 @@
 {
   "name": "Auspice Emblem",
   "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 0",
-  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/boxes/0.gif",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/0.gif",
   "attributes": [
     {
       "trait_type": "Type",
@@ -38,3 +38,4 @@
   ]
 
 }
+
