@@ -1,0 +1,40 @@
+
+{
+  "name": "Remembrance Pendant",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 7",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/7.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "7"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Remembrance_Pendant"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Weak"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bone"
+    }
+  ]
+}

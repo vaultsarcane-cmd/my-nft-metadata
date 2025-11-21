@@ -1,0 +1,40 @@
+
+{
+  "name": "Oneiros Span",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 47",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/47.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "47"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Oneiros_Span"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Weak"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Fars"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bone"
+    }
+  ]
+}

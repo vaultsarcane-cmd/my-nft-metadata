@@ -1,0 +1,39 @@
+{
+  "name": "Bindings Slumber",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 4",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/4.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "4"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Bindings_Slumber"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bronze"
+    }
+  ]
+}

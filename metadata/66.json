@@ -1,0 +1,27 @@
+{
+  "name": "Gilded Flame",
+  "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 0",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/0.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "0"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "gilded_flame"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    }
+  ]
+}

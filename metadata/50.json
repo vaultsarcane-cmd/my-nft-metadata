@@ -1,0 +1,39 @@
+{
+  "name": "Zephyr's Touch",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 50",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/50.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "50"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Zephyr's_Touch"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Wind"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
+    }
+  ]
+}

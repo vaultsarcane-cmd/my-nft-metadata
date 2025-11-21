@@ -1,0 +1,39 @@
+{
+  "name": "Oblivion Shroud",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 29",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/29.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "29"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Oblivion_Shroud"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
+    }
+  ]
+}

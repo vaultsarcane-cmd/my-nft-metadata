@@ -1,0 +1,39 @@
+{
+  "name": "Vital Font",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 58",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/58.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "58"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Vital_Font"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
+    }
+  ]
+}

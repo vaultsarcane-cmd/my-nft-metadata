@@ -1,0 +1,27 @@
+{
+  "name": "Khorasan Sun",
+  "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 4",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/4.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "4"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "khorasan_sun"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
+    }
+  ]
+}

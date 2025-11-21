@@ -1,0 +1,39 @@
+{
+  "name": "Daybreak Trinket",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 30",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/30.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "30"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Daybreak_Trinket"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
+    }
+  ]
+}

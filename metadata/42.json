@@ -1,0 +1,39 @@
+{
+  "name": "Arboreal Anchors",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 42",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/42.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "42"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Arboreal_Anchors"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Fars"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Classical"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bronze"
+    }
+  ]
+}

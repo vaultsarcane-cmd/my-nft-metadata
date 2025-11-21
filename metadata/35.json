@@ -1,0 +1,39 @@
+{
+  "name": "Celestial Pass",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 35",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/35.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "35"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Celestial_Pass"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
+    }
+  ]
+}

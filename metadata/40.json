@@ -1,0 +1,39 @@
+{
+  "name": "Harpy's Melody",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 40",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/40.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "40"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Harpy's_Melody"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Labyrinth Exit",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 38",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/38.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "38"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Labyrinth_Exit"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bronze"
+    }
+  ]
+}

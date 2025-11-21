@@ -1,0 +1,39 @@
+{
+  "name": "Pluvial Grace",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 37",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/37.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "37"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Pluvial_Grace"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Weak"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Fars"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
+    }
+  ]
+}

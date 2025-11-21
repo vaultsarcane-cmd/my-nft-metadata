@@ -1,0 +1,27 @@
+{
+  "name": "Mountain Heart",
+  "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 2",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/2.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "mountain_heart"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    }
+  ]
+}

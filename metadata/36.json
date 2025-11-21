@@ -1,0 +1,39 @@
+{
+  "name": "Accord Warden",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 36",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/36.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "36"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Accord_Warden"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Classical"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bone"
+    }
+  ]
+}

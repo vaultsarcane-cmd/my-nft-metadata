@@ -1,0 +1,39 @@
+{
+  "name": "Chronos Vessel",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 22",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/22.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "22"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Chronos_Vessel"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
+    }
+  ]
+}

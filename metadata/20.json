@@ -1,0 +1,39 @@
+{
+  "name": "Serenity's Calm",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 20",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/20.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "20"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Serenity's_Calm"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bronze"
+    }
+  ]
+}

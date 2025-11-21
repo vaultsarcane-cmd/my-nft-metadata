@@ -1,0 +1,39 @@
+{
+  "name": "Portal Pass",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 56",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/56.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "56"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Portal_Pass"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
+    }
+  ]
+}

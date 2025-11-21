@@ -1,0 +1,39 @@
+{
+  "name": "Determination Rampart",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 41",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/41.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "41"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Determination_Rampart"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
+    }
+  ]
+}

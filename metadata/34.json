@@ -1,0 +1,39 @@
+{
+  "name": "Wishspring",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 34",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/34.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "34"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "Wishspring"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
+    }
+  ]
+}

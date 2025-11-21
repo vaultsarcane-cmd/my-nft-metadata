@@ -1,0 +1,39 @@
+{
+  "name": "Gale Brand",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 1",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Boxes/1.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Box Name", 
+      "value": "Gale_Brand"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Wind"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Fars"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
+    }
+  ]
+}
