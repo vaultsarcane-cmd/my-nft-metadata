@@ -1,6 +1,6 @@
 {
   "name": "Auspice Emblem",
-  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 0",
+  "description": "An Arcane Vaults containing ancient secrets. Requires a specific key to open. Box ID: 0",
   "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/boxes/0.gif",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Box Name",
-      "value": "sigil_fortune"
+      "value": "Auspice_Emblem"
     },
     {
       "trait_type": "Element",
@@ -36,4 +36,5 @@
       "value": "Gold"
     }
   ]
+
 }
