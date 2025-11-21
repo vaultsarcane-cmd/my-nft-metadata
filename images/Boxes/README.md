@@ -1,0 +1,1 @@
+Box images folder
