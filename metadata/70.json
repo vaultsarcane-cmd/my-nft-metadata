@@ -1,0 +1,27 @@
+{
+  "name": "Oriental Luminary",
+  "description": "An ancient key that can unlock specific Arcane Vaults. Key ID: 4",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Keys/4.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "4"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "Oriental_Luminary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
+    }
+  ]
+}

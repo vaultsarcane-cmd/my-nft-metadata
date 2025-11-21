@@ -1,0 +1,27 @@
+{
+  "name": "Indestructible Covenant",
+  "description": "An ancient key that can unlock specific Arcane Vaults. Key ID: 10",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Keys/10.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "10"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "Indestructible_Covenant"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    }
+  ]
+}

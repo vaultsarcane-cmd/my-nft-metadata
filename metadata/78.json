@@ -1,0 +1,27 @@
+{
+  "name": "Galactic Synergy",
+  "description": "An ancient key that can unlock specific Arcane Vaults. Key ID: 12",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Keys/12.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "12"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "Galactic_Synergy"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    }
+  ]
+}

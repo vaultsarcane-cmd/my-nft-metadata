@@ -1,0 +1,27 @@
+{
+  "name": "Vanished Resonance",
+  "description": "An ancient key that can unlock specific Arcane Vaults. Key ID: 1",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Keys/1.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "Vanished_Resonance"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
+    }
+  ]
+}

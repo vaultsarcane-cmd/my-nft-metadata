@@ -1,0 +1,27 @@
+{
+  "name": "Argent Eloquence",
+  "description": "An ancient key that can unlock specific Arcane Vaults. Key ID: 6",
+  "image": "https://raw.githubusercontent.com/vaultsarcane-cmd/my-nft-metadata/main/images/Keys/6.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "6"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "Argent_Eloquence"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
+    }
+  ]
+}
